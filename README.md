@@ -1,6 +1,6 @@
 # Duality AI: Offroad Semantic Scene Segmentation Challenge Report
 
-**Team:** [Internal Team Name]  
+**Team:** Domain-Robust Offroad Semantic Segmentation using Synthetic Digital Twins
 **Topic:** Robust Domain-Shift Aware Offroad Segmentation using DeepLabV3+  
 **Platform:** Falcon Digital Twin (Synthetic Desert Environment)
 
